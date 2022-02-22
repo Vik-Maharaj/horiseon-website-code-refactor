@@ -15,7 +15,7 @@ The achieve this goal, the following aspects of the code were refactored:
 - CSS selectors were reorganized and revised
 - the title element was changed to be more descriptive
 
-After completing those changes, Horiseon's website SEO was improved. Thus, this project shows that a few technical changes can go a long way in helping an existing become so much more.
+After completing those changes, Horiseon's website SEO was improved. Thus, this project shows that a few technical changes can go a long way in helping an existing website become so much more.
 
 Link to the deployed website: https://vik-maharaj.github.io/horiseon-website-code-refactor/
 
