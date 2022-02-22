@@ -17,9 +17,7 @@ The achieve this goal, the following aspects of the code were refactored:
 
 After completing those changes, Horiseon's website SEO was improved. Thus, this project shows that a few technical changes can go a long way in helping an existing become so much more.
 
-Add link to the deployed application here:
-
-
+Link to the deployed website: https://vik-maharaj.github.io/horiseon-website-code-refactor/
 
 
 ## Installation
@@ -31,13 +29,7 @@ The repo contains an index.html file, and assets folder containing a CSS file sy
 
 Using any dekstop browser, open the above mentioned link to view the webpage.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
-
-
+![Horiseon Website Screenshot](assets/images/screenshot.png)
 
 
 ## Credits
@@ -66,4 +58,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTH
 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![MIT](/github/license/:user/:repo)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
